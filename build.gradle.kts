@@ -3,7 +3,7 @@ plugins {
 }
 
 group = "xyz.zetabot"
-version = "1.0-SNAPSHOT"
+version = "0.0.1-CANARY"
 
 repositories {
     mavenCentral()
