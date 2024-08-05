@@ -15,7 +15,7 @@ public class ZetaBot {
     public ZetaBot(ZetaSettings settings, String token) {
         this.settings = settings;
 
-        ArrayList<GatewayIntent> intents = new ArrayList<>(GatewayIntent.DEFAULT);
+        ArrayList<GatewayIntent> intents = new ArrayList<>(GatewayIntent.ALL_INTENTS);
         this.jda = JDABuilder.create(token, intents);
     }
 

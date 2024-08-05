@@ -17,12 +17,12 @@ public class ZetaLauncher {
 
         bot.login();
 
-        bot.getJda().setActivity(Activity.watching("Youtube").withState("Videos sobre Discord"));
-
         startActivityLoop();
     }
 
     private static void startActivityLoop() {
+        bot.getJda().setActivity(Activity.watching("Youtube").withState("Videos sobre Discord"));
+
         Timer timer = new Timer();
         timer.schedule(new TimerTask() {
             @Override
