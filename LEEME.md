@@ -6,12 +6,12 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/freitaseric/zetabot)](https://img.shields.io/github/issues-pr/freitaseric/zetabot)
 [![GitHub](https://img.shields.io/github/license/freitaseric/zetabot)](https://img.shields.io/github/license/freitaseric/zetabot)
 
-## Table of Contents
+## Tabla de contenido
 
 > [!WARNING]
 > Este archivo aún está en desarrollo...
 
-### Language
+### Idioma
 
 - [🇧🇷 Português (Brasil)](./LEIAME.md)
 - [🇺🇸 English (US)](./README.md)
